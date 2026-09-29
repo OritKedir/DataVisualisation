@@ -13,6 +13,7 @@ dependencies = [
     "matplotlib>=3.11.2",
     "pandas>=3.0.6",
     "seaborn>=0.13.2",
+    "wbgapi>=1.0.14",
 ]
 
 [project.scripts]
