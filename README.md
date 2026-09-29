@@ -4,7 +4,7 @@ This project explores historical trends across diverse economies using World Ban
 
 ##  Tableau Dashboard
 Interact with the live visualizations on Tableau Public:  
- **[Click here to view the Tableau Dashboard]([PASTE_YOUR_TABLEAU_PUBLIC_URL_HERE](https://public.tableau.com/app/profile/orit.kedir.elala/viz/Book2_17906966329330/Sheet6?publish=yes))**
+ **[Click here to view the Tableau Dashboard](https://public.tableau.com/app/profile/orit.kedir.elala/viz/Book2_17906966329330/Sheet6?publish=yes)**
 
 ---
 
